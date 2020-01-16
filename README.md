@@ -4,3 +4,4 @@
 3. Factory Method 
 4. Static Factory
 5. Simple Factory
+6. Singleton
