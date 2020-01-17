@@ -5,3 +5,4 @@
 4. Static Factory
 5. Simple Factory
 6. Singleton
+7. Strategy
